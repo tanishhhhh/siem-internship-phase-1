@@ -1,5 +1,3 @@
-Here’s a complete **Markdown template** for a detection scenario file, such as `writeups/brute-force.md`. You can copy this, paste it into GitHub, and edit each section based on your actual test results.
-
 ---
 
 ## 🛡️ Detection Scenario: Brute Force Login Attempt
@@ -102,6 +100,4 @@ This scenario detects brute-force login attempts against a Windows machine. A br
 * Check for lateral movement after successful login.
 * Lock account or trigger MFA for suspicious login attempts.
 
----
-
-Would you like me to generate versions for the other scenarios (after-hours login, lateral RDP, etc.) as well?
+--
